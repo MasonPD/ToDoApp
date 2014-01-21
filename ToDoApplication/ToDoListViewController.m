@@ -21,7 +21,6 @@
 
 - (void)onAddingButton:(id)sender;
 - (void)onAddingDoneButton;
-- (void)hideKeyBoard;
 @end
 
 @implementation ToDoListViewController
@@ -45,7 +44,7 @@
     self.isAdding = NO;
     self.currCellIndex = -1;
     
-    self.navigationItem.title = @"To Do Lsit";
+    self.navigationItem.title = @"To Do List";
     self.navigationItem.rightBarButtonItem = self.addButton;
     self.navigationItem.leftBarButtonItem = self.editButtonItem;
     

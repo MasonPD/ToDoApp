@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>5219F3AB-DF2C-421F-AE37-E0B65C2C6311</string>
+	<string>AD1ACD94-A285-414D-9EA5-7A8A050B727B</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ToDoApplication</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>6623952C-1B1A-4340-A117-AD07A28E7A29</key>
-		<string>ssh://github.com/daphenne/ToDoApplication.git</string>
+		<key>79168165-4BDB-41E4-BA5B-6226344A9E8A</key>
+		<string>ssh://github.com/MasonPD/ToDoApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ToDoApplication.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6623952C-1B1A-4340-A117-AD07A28E7A29</key>
+		<key>79168165-4BDB-41E4-BA5B-6226344A9E8A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/daphenne/ToDoApplication.git</string>
+	<string>ssh://github.com/MasonPD/ToDoApp.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6623952C-1B1A-4340-A117-AD07A28E7A29</string>
+	<string>79168165-4BDB-41E4-BA5B-6226344A9E8A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>6623952C-1B1A-4340-A117-AD07A28E7A29</string>
+			<string>79168165-4BDB-41E4-BA5B-6226344A9E8A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ToDoApplication</string>
 		</dict>
